@@ -1,0 +1,12 @@
+{
+	"id": "BAR-Widget-Template",
+	"display_name": "BAR Wiget Template",
+	"author": "your name",
+	"description": "A short description of your widget",
+	"homepage_url": "https://discord.com/channels/549281623154229250/<your_post_id>",
+	"repository_url": "https://github.com/<your_github_username>/<your_repository>",
+	"date-created": "2025-08-28 YYYY-MM-DD",
+	"version": "1.0.0",
+	"entrypoints": "my_widget.lua",
+	"manual_install_only": true
+}
