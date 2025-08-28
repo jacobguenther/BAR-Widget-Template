@@ -1,5 +1,5 @@
 {
-	"id": "BAR-Widget-Template",
+	"id": "BAR-Widget-Template <your_repository>",
 	"mod_type": "widget",
 	"display_name": "BAR Wiget Template",
 	"author": "your name",
@@ -8,9 +8,8 @@
 	"repository_url": "https://github.com/<your_github_username>/<your_repository>",
 	"date_created": "YYYY-MM-DD",
 	"version": "1.0.0",
-	"entrypoint": "my_widget.lua",
 	"install": {
-		"LuaUI/Widgets/": "my_widget.lua"
+		"/LuaUI/Widgets/": "my_widget.lua"
 	},
 	"manual_install_only": true
 }
