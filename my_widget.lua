@@ -1,3 +1,6 @@
+-- SPDX-FileCopyrightText: 2025 Jacob Guenther(chmod777) <jacobrwguenther@protonmail.com>
+--
+-- SPDX-License-Identifier: GPL-2.0-or-later
 
 function widget:GetInfo()
 	return {
