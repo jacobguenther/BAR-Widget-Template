@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2025 Jacob Guenther(chmod777) <jacobrwguenther@protonmail.com>
+SPDX-FileCopyrightText: 2025 FirstName LastName (your_alias) <your_email@example.com>
 
 SPDX-License-Identifier: GPL-2.0-or-later
 -->

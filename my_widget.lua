@@ -1,9 +1,9 @@
--- SPDX-FileCopyrightText: 2025 Jacob Guenther(chmod777) <jacobrwguenther@protonmail.com>
+-- SPDX-FileCopyrightText: 2025 FirstName LastName (your_alias) <your_email@example.com>
 --
 -- SPDX-License-Identifier: GPL-2.0-or-later
 
 --[[
-Copyright (C) 2025 <your_name_or_alias>
+Copyright (C) 2025 FirstName LastName (your_alias)
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
