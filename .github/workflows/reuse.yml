@@ -14,9 +14,6 @@ jobs:
   reuse-lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Run REUSE lint via Docker
-        run: |
-          docker run --rm -v "$PWD:/data" fsfe/reuse lint
+      - uses: actions/checkout@v4
+      - name: REUSE Compliance Check
+        uses: fsfe/reuse-action@v4
